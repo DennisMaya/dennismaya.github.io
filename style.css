@@ -70,6 +70,19 @@ footer {
   margin-top: 1rem;
 }
 
+section#about {
+  padding: 2rem 1rem;
+  background-color: #f9f9f9;
+}
+
+section#about h2 {
+  margin-bottom: 1rem;
+}
+
+section#about p {
+  line-height: 1.6;
+}
+
 @media (max-width: 600px) {
   header h1 {
     font-size: 2rem;
